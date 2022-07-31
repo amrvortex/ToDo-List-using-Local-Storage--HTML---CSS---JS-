@@ -4,7 +4,7 @@
 # Initial Display
 ![image](https://user-images.githubusercontent.com/61240683/182021253-b270a6d9-982e-4e2f-be55-2a9bb9eb6435.png)
 
-# All Tasks
+# Adding Tasks (All Tasks Display)
 ![image](https://user-images.githubusercontent.com/61240683/182021276-3efbf30e-8595-4a4c-83f1-76cef2c35dd1.png)
 
 # Click on A Task to toggle it between Completed State and Uncompleted State
