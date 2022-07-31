@@ -17,3 +17,4 @@
 ![image](https://user-images.githubusercontent.com/61240683/182021297-0acd1422-0d3e-4b05-aa92-8d6fcd9ae829.png)
 
 # Deleting Tasks
+![image](https://user-images.githubusercontent.com/61240683/182021389-7adaef0a-2f61-401a-ab32-e8576924782c.png)
